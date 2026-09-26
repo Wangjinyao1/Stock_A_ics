@@ -1,0 +1,278 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stock_A_ics//China Stock Market Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A股休市日历
+X-WR-CALDESC:中国 A 股节假日休市（周末休市未列出）。数
+ 据来源：上海证券交易所休市安排 https://www.sse.com.cn/disc
+ losure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+X-WR-TIMEZONE:Asia/Shanghai
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:stocka-closed-20260101@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260102@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260216@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260217@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260218@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260219@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260220@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260223@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260406@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260501@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260504@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260505@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260619@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20260925@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20261001@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20261002@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20261005@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20261006@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:stocka-closed-20261007@stock-a-ics
+DTSTAMP:20260926T105849Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:A股休市
+DESCRIPTION:中国 A 股节假日休市（周末休市未列出）。数据
+ 来源：上海证券交易所休市安排 https://www.sse.com.cn/disclos
+ ure/dealinstruc/closed/ 。由 Stock_A_ics 自动生成。
+CATEGORIES:休市\,节假日
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
