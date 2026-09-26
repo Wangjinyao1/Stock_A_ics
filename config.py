@@ -64,9 +64,9 @@ JSDELIVR_SUBSCRIBE_BASE = f"https://cdn.jsdelivr.net/gh/{GITHUB_REPO}@{GITHUB_BR
 db_config = {
     "host": os.getenv("DB_HOST", "127.0.0.1"),
     "port": int(os.getenv("DB_PORT", 3306)),
-    "user": os.getenv("DB_USER", "your_db_credential"),
-    "password": os.getenv("DB_PASSWORD", "your_db_credential"),
-    "database": os.getenv("DB_NAME", "your_db_credential"),
+    "user": os.getenv("DB_USER", "your_db_user"),
+    "password": os.getenv("DB_PASSWORD", "your_db_password"),
+    "database": os.getenv("DB_NAME", "your_db_name"),
     "charset": "utf8mb4",
     "connect_timeout": 10,
     "read_timeout": 20,
