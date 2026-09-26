@@ -54,7 +54,7 @@ HOLIDAY_FALLBACK_FILE = DATA_DIR / "sse_closed_fallback.json"
 
 # ---------------------------------------------------------------- GitHub 订阅地址
 # 发布到 GitHub 后，订阅地址由 GITHUB_REPO 拼接而成（README 中展示）
-GITHUB_REPO = os.getenv("GITHUB_REPO", "your-name/Stock_A_ics")
+GITHUB_REPO = os.getenv("GITHUB_REPO", "Wangjinyao1/Stock_A_ics")
 GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "main")
 RAW_SUBSCRIBE_BASE = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}/calendar"
 JSDELIVR_SUBSCRIBE_BASE = f"https://cdn.jsdelivr.net/gh/{GITHUB_REPO}@{GITHUB_BRANCH}/calendar"

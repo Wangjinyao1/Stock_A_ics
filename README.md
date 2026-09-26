@@ -13,28 +13,28 @@
 ### 1️⃣ 开盘日历（主日历，推荐订阅）
 
 ```
-https://cdn.jsdelivr.net/gh/your-name/Stock_A_ics@main/calendar/stock_a_open.ics
+https://cdn.jsdelivr.net/gh/Wangjinyao1/Stock_A_ics@main/calendar/stock_a_open.ics
 ```
 
 备用地址（GitHub 原始文件）：
 
 ```
-https://raw.githubusercontent.com/your-name/Stock_A_ics/main/calendar/stock_a_open.ics
+https://raw.githubusercontent.com/Wangjinyao1/Stock_A_ics/main/calendar/stock_a_open.ics
 ```
 
 ### 2️⃣ 休市日历（节假日休市提醒，可选订阅）
 
 ```
-https://cdn.jsdelivr.net/gh/your-name/Stock_A_ics@main/calendar/stock_a_closed.ics
+https://cdn.jsdelivr.net/gh/Wangjinyao1/Stock_A_ics@main/calendar/stock_a_closed.ics
 ```
 
 备用地址：
 
 ```
-https://raw.githubusercontent.com/your-name/Stock_A_ics/main/calendar/stock_a_closed.ics
+https://raw.githubusercontent.com/Wangjinyao1/Stock_A_ics/main/calendar/stock_a_closed.ics
 ```
 
-> ⚠️ 发布到 GitHub 后，请把上面地址中的 `your-name` 替换为你自己的 GitHub 用户名（与 `.env` 中 `GITHUB_REPO` 保持一致）。
+> ⚠️ 订阅地址要求仓库必须是**公开（Public）**仓库；若修改了仓库名或用户名，请同步更新 `.env` 中的 `GITHUB_REPO` 并重新生成本 README 中的地址。
 
 ### 订阅方法
 
